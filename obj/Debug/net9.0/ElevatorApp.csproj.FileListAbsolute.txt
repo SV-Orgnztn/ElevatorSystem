@@ -1,0 +1,14 @@
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\bin\Debug\net9.0\ElevatorApp.exe
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\bin\Debug\net9.0\ElevatorApp.deps.json
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\bin\Debug\net9.0\ElevatorApp.runtimeconfig.json
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\bin\Debug\net9.0\ElevatorApp.dll
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\bin\Debug\net9.0\ElevatorApp.pdb
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.AssemblyInfoInputs.cache
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.AssemblyInfo.cs
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.dll
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\refint\ElevatorApp.dll
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.pdb
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ElevatorApp.genruntimeconfig.cache
+C:\Users\sv-vm\Desktop\Elevator\ElevatorApp\obj\Debug\net9.0\ref\ElevatorApp.dll
